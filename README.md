@@ -6,3 +6,9 @@ I detta repository hittar du:
 - Vår mindmap i Miro, som fungerade som vårt stöd genom projektets gång.
 - Vår prototyp i Figma, där vi visualiserade vår lösning.
 - Individuella rapporter, där vi reflekterade över våra insikter och lärdomar.
+
+##Betyg
+![image](https://github.com/user-attachments/assets/a6c7abcd-732c-4ee0-a5f8-2b6b45a2c7b4)
+![2025-03-07_18h22_26](https://github.com/user-attachments/assets/3b825f26-1d1a-4a95-bba1-1c50073efdde)
+
+
