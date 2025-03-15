@@ -7,7 +7,7 @@ I detta repository hittar du:
 - Vår prototyp i Figma, där vi visualiserade vår lösning.
 - Individuella rapporter, där vi reflekterade över våra insikter och lärdomar.
 
-##Betyg
+## Betyg
 ![image](https://github.com/user-attachments/assets/6d570037-5aea-46ba-9f71-7891288f53e4)
 
 
